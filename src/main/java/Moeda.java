@@ -5,6 +5,7 @@ public class Moeda{
 
     }
     public Moeda(String tipo){
+
         this.tipo = tipo;
     }
 
